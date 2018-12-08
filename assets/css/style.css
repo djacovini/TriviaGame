@@ -1,0 +1,56 @@
+@font-face {
+    font-family: graffiti;
+    src: url(Mersey\ Cowboy.otf);
+}
+body{
+    font-family: graffiti;
+    background-color: black;
+}
+body, html {
+    height: 100%;
+  }
+  
+.bg { 
+
+    background-image: url("../images/warriors.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#spacer {
+    height: 400px;
+}
+
+#timer {
+    background-color: black;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    width: 1000px;
+}
+
+#question {
+    background-color: black;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    width: 1000px;
+}
+
+
+#choices {
+    background-color: black;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    width: 1000px;
+}
+
+button {
+    background-color: black;
+    color: red;
+    width: 1000px;
+    text-align: center;
+    font-size: 25px;
+}
