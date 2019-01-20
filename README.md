@@ -2,7 +2,7 @@
 Assignment #5
 
 # Warriors Trivia
-I designed a trivia for Warriors fanatics- those like me who have seen the 1979 masterpiece way too many times.
+I designed a trivia for Warriors fanatics- those like me who have seen the 1979 masterpiece way too many times.   https://djacovini.github.io/TriviaGame/
 
 ## Built With
 * [Bootstrap] CDN) https://www.bootstrapcdn.com/
